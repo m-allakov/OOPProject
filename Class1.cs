@@ -10,8 +10,6 @@ namespace EvLib
         string semt { get; set; }
         string cephe { get; set; }
 
-
-
     }
 
     public abstract class Ev : IEvBilgileri
@@ -34,10 +32,6 @@ namespace EvLib
     public class SatilikEv : Ev
     {
         public double satis_fiyati { get; set; }
-
-
-
-
 
         public override void Delete()
         {
