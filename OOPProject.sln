@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPProject", "OOPProject.csproj", "{47C9CD3E-8DFF-484F-9A08-B9D30BD5F25B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvLib", "..\EvLib\EvLib.csproj", "{F8B08467-D143-4FEF-AB92-B98D2259EEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C9CD3E-8DFF-484F-9A08-B9D30BD5F25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C9CD3E-8DFF-484F-9A08-B9D30BD5F25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C9CD3E-8DFF-484F-9A08-B9D30BD5F25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C9CD3E-8DFF-484F-9A08-B9D30BD5F25B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B08467-D143-4FEF-AB92-B98D2259EEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B08467-D143-4FEF-AB92-B98D2259EEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B08467-D143-4FEF-AB92-B98D2259EEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B08467-D143-4FEF-AB92-B98D2259EEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4FF692A-25EA-4408-B082-62755A41DBA7}
+	EndGlobalSection
+EndGlobal
