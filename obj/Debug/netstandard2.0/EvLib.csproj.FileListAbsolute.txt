@@ -1,0 +1,10 @@
+C:\Users\muham\source\repos\EvLib\bin\Debug\netstandard2.0\EvLib.deps.json
+C:\Users\muham\source\repos\EvLib\bin\Debug\netstandard2.0\EvLib.dll
+C:\Users\muham\source\repos\EvLib\bin\Debug\netstandard2.0\EvLib.pdb
+C:\Users\muham\source\repos\EvLib\obj\Debug\netstandard2.0\EvLib.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\EvLib\obj\Debug\netstandard2.0\EvLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\EvLib\obj\Debug\netstandard2.0\EvLib.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\EvLib\obj\Debug\netstandard2.0\EvLib.AssemblyInfo.cs
+C:\Users\muham\source\repos\EvLib\obj\Debug\netstandard2.0\EvLib.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\EvLib\obj\Debug\netstandard2.0\EvLib.dll
+C:\Users\muham\source\repos\EvLib\obj\Debug\netstandard2.0\EvLib.pdb
